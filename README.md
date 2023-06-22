@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ![](https://visitor-badge.lithub.cc/badge?page_id=github.com/lizheming)
+![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://visitor-badge.lithub.cc/badge?page_id=github.com/lizheming)
 <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
 <!--
 **Burh2k/Burh2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
