@@ -1,6 +1,7 @@
 
   <h1>Hi there!</h1><br>
  <p>I am a 3rd year Computer Engineering student at Air University, Islamabad.<br>
+   <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
 Always looking for exceptional activities to expand my knowledge and network. </p>
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
@@ -8,7 +9,7 @@ Always looking for exceptional activities to expand my knowledge and network. </
 - :rocket: Always ready to collaborate for Dev Experiments
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
- <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
+ 
   <br>
   
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
