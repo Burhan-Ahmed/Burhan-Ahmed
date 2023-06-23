@@ -1,6 +1,9 @@
 <h2 align="left">
+
  <abc>
   <br>Hi there! <br>
+ <table>
+ <td> 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: I'm a Fullstack Developer, currently exploring Web3 Space
@@ -10,9 +13,14 @@
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 - :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+</td>
   <br>
+  <td>
    <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
+   </td>
  </abc>
+</table>
+ 
 </h2> 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
