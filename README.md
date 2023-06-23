@@ -1,17 +1,12 @@
-<h2 align="left">
 
- <abc>
   <br>Hi there! <br>
  <table>
  <td> 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm a Fullstack Developer, currently exploring Web3 Space
-- :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
+- :hourglass_flowing_sand: Exploring Web Developer & Computer Hardware
 - :rocket: Always ready to collaborate for Dev Experiments
-- :man_technologist: Former Project Lead Intern at GirlScript Foundation
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
-- :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 </td>
   <br>
@@ -20,8 +15,6 @@
    </td>
  </abc>
 </table>
- 
-</h2> 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
