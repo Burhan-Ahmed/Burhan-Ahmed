@@ -1,7 +1,15 @@
 <h2 align="left">
  <abc>
-  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-<!--   <br> I'm Siv Ram Shastri, Full Stack Web Developer :computer:<br> -->
+  <br>Hi there! <br>
+<h2 align="left">👨🏻‍💻 About Me:</h2>
+
+- :computer: I'm a Fullstack Developer, currently exploring Web3 Space
+- :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
+- :rocket: Always ready to collaborate for Dev Experiments
+- :man_technologist: Former Project Lead Intern at GirlScript Foundation
+- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
+- :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
+- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
   <br>
    <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
  </abc>
