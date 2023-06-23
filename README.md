@@ -23,7 +23,7 @@
     </p>
 ## 👯 Connect with me
 <p>
-    <a href="https://www.linkedin.com/in/abdullahqaisarr/" target="_blank">
+    <a href="https://www.linkedin.com/in/muhammad-burhan-ahmed-86ab7b10a/" target="_blank">
         <img alt="JavaScript"
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
