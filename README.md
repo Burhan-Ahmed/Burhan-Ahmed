@@ -4,7 +4,7 @@
  <td> 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :hourglass_flowing_sand: Exploring Web Developer & Computer Hardware
+- :hourglass_flowing_sand: Exploring Web Developement & Computer Hardware
 - :rocket: Always ready to collaborate for Dev Experiments
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
