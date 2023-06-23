@@ -1,5 +1,7 @@
 
-  <br>Hi there! <br> 
+  <h1>Hi there!</h1><br>
+ <p> Hello, I am currently an undergraduate student at Air University, Islamabad.<br>
+I am a Font-End Developer and always looking for exceptional activities to expand my knowledge and network. </p>
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :hourglass_flowing_sand: Exploring Web Developement & Computer Hardware
