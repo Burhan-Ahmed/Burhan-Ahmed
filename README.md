@@ -1,20 +1,13 @@
 
-  <br>Hi there! <br>
- <table>
- <td> 
+  <br>Hi there! <br> 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :hourglass_flowing_sand: Exploring Web Developement & Computer Hardware
 - :rocket: Always ready to collaborate for Dev Experiments
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
-</td>
   <br>
-  <td>
    <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
-   </td>
- </abc>
-</table>
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
