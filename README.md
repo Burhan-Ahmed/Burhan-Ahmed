@@ -30,6 +30,9 @@ Always looking for exceptional activities to expand my knowledge and network. </
 	 <a href="https://tailwindcss.com/" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="40" height="40"/>
 	</a>
+	<a href="https://www.figma.com/login" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+	</a>
     </p>
 ## 👯 Connect with me
 <p>
