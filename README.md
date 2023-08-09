@@ -1,8 +1,10 @@
 
   <h1>Hi there!</h1><br>
- <p>I am a 3rd year Computer Engineering student at Air University, Islamabad.<br>
+ <p>I am a 3rd-year Computer Engineering student at Air University, Islamabad.<br>
    <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
-Always looking for exceptional activities to expand my knowledge and network. </p>
+	I wish to contribute my time to the community which will help me to learn more and expand my network. I am a Front-end web developer and also working on my UI skills to develop creative user interfaces for Website
+Always looking for exceptional activities to expand my knowledge and network. 
+ </p>
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :hourglass_flowing_sand: Exploring Web Developement & Computer Hardware
