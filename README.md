@@ -36,10 +36,12 @@
 	  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="50" height="50"/>
 </a>
     </p>
-<h2 align="left">:hammer_and_wrench:Tools I use:</h2>
+<h2 align="left">:hammer_and_wrench: Tools I use:</h2>
 <p>
 	<img width="40" height="40" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/>
 	 <img width="40" height="40" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" title="Jupyter Notebook"/>
+	 <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
+	 <img src="https://skillicons.dev/icons?i=github" alt="Github" width="50" height="50"/>
 	<a href="https://www.figma.com/login">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" />
 	</a>
