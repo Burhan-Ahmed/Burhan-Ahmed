@@ -28,8 +28,7 @@
 	 <img width="40" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/>
  </a> 
 <a href="https://nextjs.org/" target="_blank" >
-	 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3" alt="Tailwind" width="50" height="50"/>
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+	 <img src="https://skillicons.dev/icons?i=react" alt="Tailwind" width="50" height="50"/>
 </a>       
  <a href="https://tailwindcss.com/" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="50" height="50"/>
