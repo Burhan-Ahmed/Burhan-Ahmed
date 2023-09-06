@@ -24,7 +24,7 @@
 <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo" width="40" height="40" />
  </a>
 	<a href="https://www.python.org/" target="_blank" >
-	 <img src="https://skillicons.dev/icons?i=py" alt="Python" width="50" height="50"/>bootstrap
+	 <img src="https://skillicons.dev/icons?i=py" alt="Python" width="50" height="50"/>
 </a>   
 	<a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank">
 	 <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="50" height="50"/>
