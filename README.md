@@ -23,8 +23,10 @@
  <a href="https://www.w3schools.com/cpp/cpp_intro.asp#:~:text=C%2B%2B%20is%20an%20object%2Doriented,be%20adapted%20to%20multiple%20platforms." target="_blank"> 
 <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo" width="40" height="40" />
  </a>
- <img width="40" height="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/>
- <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank">
+	<a href="https://www.python.org/" target="_blank" >
+	 <img src="https://skillicons.dev/icons?i=py" alt="Python" width="50" height="50"/>
+</a>   
+	<a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank">
 	 <img width="40" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/>
  </a> 
 <a href="https://nextjs.org/" target="_blank" >
