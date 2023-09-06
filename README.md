@@ -28,7 +28,7 @@
 	 <img width="40" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/>
  </a> 
 <a href="https://nextjs.org/" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="NextJs" width="50" height="50 />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="NextJs" width="50" height="50 />
 </a>       
  <a href="https://tailwindcss.com/" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="50" height="50"/>
