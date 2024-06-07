@@ -1,7 +1,7 @@
 
   <h1>Hi there!</h1><br>
- <p>I am a Engineering student at Air University, Islamabad.<br>
-   <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
+ <p>I am an Engineering student at Air University, Islamabad.<br>
+   <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='250'>
 	 I am a Front-end web developer and also working on my UI skills to develop creative user interfaces for Websites.
 	Always looking for exceptional activities to learn more and expand my network. 
  </p>
@@ -10,9 +10,9 @@
 - :hourglass_flowing_sand: Exploring Web Developement & Computer Hardware
 - :rocket: Always ready to collaborate for Dev Experiments
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
-- :zap: Fun fact: JavaScript is a Single Threaded Language <br>
+- :zap: Fun fact: JavaScript is a Single Threaded Language <be>
  
-
+<br>
   
 <h2 align="left">:hammer_and_wrench: Technologies I use:</h2>
 <p align="left">
