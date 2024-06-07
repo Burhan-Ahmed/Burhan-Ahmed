@@ -12,7 +12,7 @@
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 - :zap: Fun fact: JavaScript is a Single Threaded Language <br>
  
-  <br>
+
   
 <h2 align="left">:hammer_and_wrench: Technologies I use:</h2>
 <p align="left">
