@@ -3,7 +3,7 @@
  <p>I am an Engineering student at Air University, Islamabad.<br>
    <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='250'>
 	 I am a Front-end web developer with a keen interest in Computer Vision.
-	Always looking for exceptional activities to learn more and expand my network. 
+	I am always looking for exceptional activities to learn more and expand my network. Feel free to reach me out.
  </p>
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
