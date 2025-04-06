@@ -2,7 +2,7 @@
   <h1>Hi People!</h1><br>
  <p>A Final year student at Air University, Islamabad.<br>
    <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='250'>
-	A developer with a strong passion for Computer Vision, Deep Learning and MERN stack.
+	A developer with a strong passion for Computer Vision, Deep Learning and MERN stack.<br>
 	I am always looking for exceptional activities to learn more and expand my network. Feel free to reach me out.
  </p>
 <h2 align="left">👨🏻‍💻 About Me:</h2>
