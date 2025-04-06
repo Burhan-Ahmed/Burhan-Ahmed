@@ -7,7 +7,7 @@
  </p>
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :hourglass_flowing_sand: Exploring Web Developement & Computer Hardware
+- :hourglass_flowing_sand: Exploring Web Developement & Deep Learning
 - :rocket: Always ready to collaborate for Dev Experiments
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 - :zap: Fun fact: JavaScript is a Single Threaded Language <be>
