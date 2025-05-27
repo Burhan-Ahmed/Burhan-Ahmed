@@ -29,7 +29,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,mongodb" width="400" />
     <img src="https://skillicons.dev/icons?i=python,cpp,c,r" width="400" />
     <!-- AI & Deployment -->
-    <img src="https://skillicons.dev/icons?i=aws" width="8" />
+    <img src="https://skillicons.dev/icons?i=aws" width="40" /> <br>
     <!-- Hardware -->
     <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino" />
     <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
