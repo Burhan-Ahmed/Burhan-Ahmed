@@ -24,27 +24,26 @@
 <br>
  
 <h2 align="left">:hammer_and_wrench: Technologies I use:</h2>
+<h2 align="left">:hammer_and_wrench: Technologies I use:</h2>
 <p align="left">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
- <a href="https://www.w3schools.com/cpp/cpp_intro.asp#:~:text=C%2B%2B%20is%20an%20object%2Doriented,be%20adapted%20to%20multiple%20platforms." target="_blank"> 
-<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo" width="40" height="40" />
- </a>
-	<a href="https://www.python.org/" target="_blank" >
-	 <img src="https://skillicons.dev/icons?i=py" alt="Python" width="50" height="50"/>
-</a>   
-	<a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank">
-	 <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="50" height="50"/>
- </a> 
-<a href="https://nextjs.org/" target="_blank" >
-	 <img src="https://skillicons.dev/icons?i=nextjs" alt="NextJs" width="50" height="50"/>
-</a>       
- <a href="https://tailwindcss.com/" target="_blank">
-	  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="50" height="50"/>
-</a>
-    </p>
+    <!-- Core Technologies -->
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,mongodb" width="400" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,c,r" width="300" />
+    <!-- AI & Deployment -->
+    <img src="https://skillicons.dev/icons?i=aws" width="40" />
+    <img src="https://img.shields.io/badge/ONNX-%2300AEEF?style=flat&logo=ONNX&logoColor=white" alt="ONNX" />
+    <img src="https://img.shields.io/badge/OpenVINO-002856?style=flat&logo=intel&logoColor=white" alt="OpenVINO" />
+    <img src="https://img.shields.io/badge/TensorBoard-FFA000?style=flat&logo=tensorflow&logoColor=white" alt="TensorBoard" />
+    <img src="https://img.shields.io/badge/Roboflow-3b82f6?style=flat&logo=data:image/svg+xml;base64,&logoColor=white" alt="Roboflow" />
+    <!-- Hardware -->
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino" />
+    <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+    <img src="https://img.shields.io/badge/ESP32-FFDD00?style=flat&logo=espressif&logoColor=black" alt="ESP32" />
+    <!-- Other Languages -->
+    <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=Mathworks&logoColor=white" alt="MATLAB" />
+    <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white" alt="LaTeX" />
+</p>
+
 <h2 align="left">:hammer_and_wrench: Tools I use:</h2>
 <p>
 	<img width="40" height="40" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/>
