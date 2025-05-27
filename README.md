@@ -24,25 +24,36 @@
 <br>
  
 <h2 align="left">:hammer_and_wrench: Technologies I use:</h2>
-<h2 align="left">:hammer_and_wrench: Technologies I use:</h2>
 <p align="left">
-    <!-- Core Technologies -->
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,mongodb" width="400" />
-    <img src="https://skillicons.dev/icons?i=python,cpp,c,r" width="300" />
-    <!-- AI & Deployment -->
-    <img src="https://skillicons.dev/icons?i=aws" width="40" />
-    <img src="https://img.shields.io/badge/ONNX-%2300AEEF?style=flat&logo=ONNX&logoColor=white" alt="ONNX" />
-    <img src="https://img.shields.io/badge/OpenVINO-002856?style=flat&logo=intel&logoColor=white" alt="OpenVINO" />
-    <img src="https://img.shields.io/badge/TensorBoard-FFA000?style=flat&logo=tensorflow&logoColor=white" alt="TensorBoard" />
-    <img src="https://img.shields.io/badge/Roboflow-3b82f6?style=flat&logo=data:image/svg+xml;base64,&logoColor=white" alt="Roboflow" />
-    <!-- Hardware -->
-    <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino" />
-    <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
-    <img src="https://img.shields.io/badge/ESP32-FFDD00?style=flat&logo=espressif&logoColor=black" alt="ESP32" />
-    <!-- Other Languages -->
-    <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=Mathworks&logoColor=white" alt="MATLAB" />
-    <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white" alt="LaTeX" />
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=Mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white" />
+
+  <!-- AI/ML -->
+  <img src="https://img.shields.io/badge/ONNX-%2300AEEF?style=flat&logo=ONNX&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenVINO-002856?style=flat&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorBoard-FFA000?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Roboflow-3b82f6?style=flat&logo=data:image/svg+xml;base64,&logoColor=white" />
+
+  <!-- Web Dev -->
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+
+  <!-- Hardware -->
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-FFDD00?style=flat&logo=espressif&logoColor=black" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white" />
 </p>
+
 
 <h2 align="left">:hammer_and_wrench: Tools I use:</h2>
 <p>
