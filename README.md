@@ -24,11 +24,10 @@
 <br>
  
 <h2 align="left">:hammer_and_wrench: Technologies I use:</h2>
-<h2 align="left">:hammer_and_wrench: Technologies I use:</h2>
 <p align="left">
     <!-- Core Technologies -->
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,mongodb" width="400" />
-    <img src="https://skillicons.dev/icons?i=python,cpp,c,r" width="300" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,c,r" width="400" />
     <!-- AI & Deployment -->
     <img src="https://skillicons.dev/icons?i=aws" width="8" />
     <!-- Hardware -->
