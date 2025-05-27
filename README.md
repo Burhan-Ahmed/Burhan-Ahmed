@@ -2,18 +2,27 @@
   <h1>Hi People!</h1><br>
  <p>A Final year student at Air University, Islamabad.<br>
    <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='250'>
-	A developer with a strong passion for Computer Vision, Deep Learning and MERN stack.<br>
-	I am always looking for exceptional activities to learn more and expand my network. Feel free to reach me out.
- </p>
+  I'm a developer passionate about <strong>Computer Vision</strong>, <strong>Deep Learning</strong>, and the <strong>MERN stack</strong> for model deployment.<br>
+  I'm always eager to take on exciting projects, learn new skills, and expand my network. Feel free to reach out!
+</p>
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :hourglass_flowing_sand: Exploring Web Developement & Deep Learning
 - :rocket: Always ready to collaborate for Dev Experiments
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 - :zap: Fun fact: JavaScript is a Single Threaded Language <be>
- 
+
 <br>
-  
+ <!-- Add this below the paragraph or anywhere you want to highlight your project -->
+<h2 align="left">📌 Final Year Project</h2>
+<p>
+  🔗 Check out my Final Year Project here:
+  <a href="https://your-project-link.com" target="_blank">
+    <strong>Smart Object Sorting Arm 🚀</strong>
+  </a>
+</p>
+<br>
+ 
 <h2 align="left">:hammer_and_wrench: Technologies I use:</h2>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
