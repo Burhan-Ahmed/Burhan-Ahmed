@@ -1,6 +1,6 @@
 
   <h1>Hi People!</h1><br>
- <p>A Final year student of Computer Engineering at Air University, Islamabad.<br>
+ <p>A Computer Engineering Graduate from Air University, Islamabad.<br>
    <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='250'>
   I'm a developer passionate about <strong>Deep Learning</strong>, <strong>Computer Vision</strong> and <strong>MERN stack</strong><br>
   I'm always eager to take on exciting projects, learn new skills, and expand my network. <br>
