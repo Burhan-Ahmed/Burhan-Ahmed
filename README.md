@@ -1,7 +1,7 @@
 
   <h1>Hi People!</h1><br>
    <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='250'>
-  A Engineer passionate about <strong>Deep Learning</strong>, <strong>Computer Vision</strong> and <strong>MERN stack</strong><br>
+  An Engineer passionate about <strong>Deep Learning</strong>, <strong>Computer Vision</strong> and <strong>MERN stack</strong><br>
   I'm always eager to take on exciting projects, learn new skills, and expand my network. <br>
    Feel free to reach out!
 </p>
