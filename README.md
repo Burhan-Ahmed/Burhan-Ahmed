@@ -7,7 +7,7 @@
 </p>
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :hourglass_flowing_sand: Currently Exploring GANs and LLMs or Docker
+- :hourglass_flowing_sand: Currently Exploring GANs and LLMs, Docker
 - :rocket: Always ready to collaborate for Dev Experiments
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 - :zap: Fun fact: JavaScript is a Single Threaded Language <be>
