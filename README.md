@@ -25,16 +25,14 @@
  
 <h2 align="left">:hammer_and_wrench: Technologies I use:</h2>
 <p align="left">
-    <!-- Core Web Technologies -->
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,mongodb" />
     <!-- Programming Languages -->
     <img src="https://skillicons.dev/icons?i=python,cpp,c,r,matlab" />
     <!-- AI / Machine Learning -->
     <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
-    <!-- Data & Scientific Computing -->
-    <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,seaborn" />
     <!-- Deployment / Cloud -->
     <img src="https://skillicons.dev/icons?i=docker" />
+    <!-- Core Web Technologies -->
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,mongodb" />
     <br>
     <!-- Hardware -->
     <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
