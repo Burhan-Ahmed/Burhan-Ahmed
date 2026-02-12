@@ -48,6 +48,8 @@
 <p align="left">
     <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman" width="250" /> <br>
     <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black" alt="Google Colab" />
+    <img src="https://img.shields.io/badge/TensorBoard-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorBoard" />
+    <img src="https://img.shields.io/badge/Gravity_IDE-4B0082?style=flat" alt="Gravity IDE" />
     <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino IDE" />
     <img src="https://img.shields.io/badge/Raspberry_Pi_OS-A22846?style=flat&logo=raspberrypi&logoColor=white" alt="Raspberry Pi OS" />
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" alt="Slack" />
