@@ -30,7 +30,7 @@
     <!-- AI / Machine Learning -->
     <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
     <!-- Deployment / Cloud -->
-    <img src="https://skillicons.dev/icons?i=docker" />
+    <img src="https://skillicons.dev/icons?i=docker,fastapi" />
     <!-- Core Web Technologies -->
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,mongodb" />
     <br>
