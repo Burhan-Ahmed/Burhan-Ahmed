@@ -25,18 +25,23 @@
  
 <h2 align="left">:hammer_and_wrench: Technologies I use:</h2>
 <p align="left">
-    <!-- Core Technologies -->
+    <!-- Core Web Technologies -->
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,mongodb" />
-    <img src="https://skillicons.dev/icons?i=python,cpp,c,r"  />
-    <!-- AI & Deployment -->
-    <img src="https://skillicons.dev/icons?i=aws" /> <br>
+    <!-- Programming Languages -->
+    <img src="https://skillicons.dev/icons?i=python,cpp,c,r,matlab" />
+    <!-- AI / Machine Learning -->
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
+    <!-- Data & Scientific Computing -->
+    <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,seaborn" />
+    <!-- Deployment / Cloud -->
+    <img src="https://skillicons.dev/icons?i=docker" />
+    <br>
     <!-- Hardware -->
-    <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino" />
-    <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
-    <img src="https://img.shields.io/badge/ESP32-FFDD00?style=flat&logo=espressif&logoColor=black" alt="ESP32" />
-    <!-- Other Languages -->
-    <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=Mathworks&logoColor=white" alt="MATLAB" />
-    <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white" alt="LaTeX" />
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
+    <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white" />
+    <img src="https://img.shields.io/badge/ESP32-FFDD00?style=flat&logo=espressif&logoColor=black" />
+    <!-- Other Tools -->
+    <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white" />
 </p>
 
 
