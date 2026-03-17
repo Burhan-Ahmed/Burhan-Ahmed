@@ -10,7 +10,7 @@
 - :hourglass_flowing_sand: Currently Exploring GANs and Image Segmentation
 - :rocket: Always ready to collaborate for Dev Experiments
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
-- :zap: Fun fact: JavaScript is a Single Threaded Language <be>
+- :zap: Fun fact: I read novels in my free time <be>
 
 <br>
  <!-- Add this below the paragraph or anywhere you want to highlight your project -->
