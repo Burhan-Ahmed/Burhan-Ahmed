@@ -7,7 +7,7 @@
 </p>
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :hourglass_flowing_sand: Currently Exploring GANs and Image Segmentation
+- :hourglass_flowing_sand: Currently Exploring Data Engineering and APIs
 - :rocket: Always ready to collaborate for Dev Experiments
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 - :zap: Fun fact: I read novels in my free time <be>
