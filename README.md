@@ -1,7 +1,7 @@
 
   <h1>Hi People!</h1><br>
    <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='250'>
-  I am an Engineer who is passionate about <strong> Computer Vision</strong>,  <strong>Deep Learning</strong> and  <strong>Data Engineer </strong><br>
+  An Engineer who is passionate about <strong> Computer Vision</strong>,  <strong>Deep Learning</strong> and  <strong>Data Engineer </strong><br>
   I'm always eager to take on exciting projects, learn new skills and expand my network. <br>
    Feel free to reach out!
 </p>
