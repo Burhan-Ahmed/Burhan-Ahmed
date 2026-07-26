@@ -1,16 +1,16 @@
 
   <h1>Hi People!</h1><br>
    <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='250'>
-  An aspiring <strong>Data Scientist</strong><br>
-  I'm always eager to take on exciting projects, learn new skills, and expand my network. <br>
+  I am an Engineer who is passionate about <strong> Computer Vision</strong>,  <strong>Deep Learning</strong> and  <strong>Data Engineer </strong><br>
+  I'm always eager to take on exciting projects, learn new skills and expand my network. <br>
    Feel free to reach out!
 </p>
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :hourglass_flowing_sand: Currently Exploring 
+- :hourglass_flowing_sand: Currently learning Data Engineering
 - :rocket: Always ready to collaborate for Dev Experiments
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
-- :zap: Fun fact: I read novels in my free time <be>
+- :zap: Fun fact: I read novels and play chess in my free time <be>
 
 <br>
  <!-- Add this below the paragraph or anywhere you want to highlight your project -->
