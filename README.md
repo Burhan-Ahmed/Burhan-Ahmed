@@ -18,7 +18,7 @@
 <p>
   🔗 Check out my Final Year Project here:
   <a href="https://green-bot.vercel.app/" target="_blank">
-    <strong>GreenBot : An Innovative Solution for Waste Segregation 🚀</strong>
+    <strong>GreenBot: An Innovative Solution for Waste Segregation 🚀</strong>
   </a>
 </p>
 <br>
