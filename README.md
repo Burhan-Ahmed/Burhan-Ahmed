@@ -16,7 +16,7 @@
  <!-- Add this below the paragraph or anywhere you want to highlight your project -->
 <h2 align="left">📌 Final Year Project</h2>
 <p>
-  🔗 Check out my Final Year Project here:
+  🔗 Check out my Undergraduate Final Year Project:
   <a href="https://green-bot.vercel.app/" target="_blank">
     <strong>GreenBot: An Innovative Solution for Waste Segregation 🚀</strong>
   </a>
