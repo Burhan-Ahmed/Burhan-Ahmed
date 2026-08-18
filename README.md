@@ -7,7 +7,7 @@
 </p>
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :hourglass_flowing_sand: Currently learning Data Analytics
+- :hourglass_flowing_sand: Currently learning stuff about Data Analytics
 - :rocket: Always ready to collaborate for Dev Experiments
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 - :zap: Fun fact: I read novels and play chess in my free time <be>
