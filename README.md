@@ -55,7 +55,7 @@
   <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="45" alt="Google Colab" />
   <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="45" alt="TensorBoard" />
   <img src="https://cdn.simpleicons.org/openai/000000" width="45" alt="OpenAI Codex" />
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" width="45" alt="Power BI" />
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" width="35" alt="Power BI" />
   <img src="https://cdn.simpleicons.org/deepseek/4D6BFE" width="45" alt="DeepSeek" />
 
   <!-- Hardware -->
