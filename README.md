@@ -5,7 +5,7 @@
   I'm always eager to take on exciting projects, learn new skills and expand my network. <br>
    Feel free to reach out!
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=burhan-ahmed" alt="burhan-ahmed" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=burhan-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="burhan-ahmed" /> </p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
