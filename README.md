@@ -5,6 +5,7 @@
   I'm always eager to take on exciting projects, learn new skills and expand my network. <br>
    Feel free to reach out!
 </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=burhan-ahmed&show_icons=true&locale=en" alt="burhan-ahmed" /></p>
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :hourglass_flowing_sand: Currently learning stuff about Data Analytics
