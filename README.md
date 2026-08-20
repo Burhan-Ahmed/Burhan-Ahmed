@@ -14,6 +14,8 @@
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 - :zap: Fun fact: I read novels and play chess in my free time <be>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Burhan&theme=algolia&animation=stagger)
+
 <br>
  <!-- Add this below the paragraph or anywhere you want to highlight your project -->
 <h2 align="left">📌 Final Year Project</h2>
