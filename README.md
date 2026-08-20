@@ -44,22 +44,30 @@
 
 
 
-<h2 align="left">:hammer_and_wrench: Tools I use:</h2>
+<h2 align="left">🛠️ Tools I use:</h2>
+
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman" width="250" /> <br>
-    <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black" alt="Google Colab" />
-    <img src="https://img.shields.io/badge/TensorBoard-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorBoard" />
-    <img src="https://img.shields.io/badge/Gravity_IDE-4B0082?style=flat" alt="Gravity IDE" />
-  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI Codex" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI" />
-    <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino IDE" />
-    <img src="https://img.shields.io/badge/Raspberry_Pi_OS-A22846?style=flat&logo=raspberrypi&logoColor=white" alt="Raspberry Pi OS" />
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" alt="Slack" />
-    <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white" alt="Trello" />
-    <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white" alt="Confluence" />
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" />
-    <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=flat&logo=openai&logoColor=white" alt="ChatGPT" />
-    <img src="https://img.shields.io/badge/DeepSeek-A020F0?style=flat&logoColor=white" alt="DeepSeek" />
+  <!-- Development -->
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman" width="250" />
+  <br><br>
+
+  <!-- Data / AI -->
+  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="45" alt="Google Colab" />
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="45" alt="TensorBoard" />
+  <img src="https://cdn.simpleicons.org/openai/000000" width="45" alt="OpenAI Codex" />
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="45" alt="Power BI" />
+  <img src="https://cdn.simpleicons.org/deepseek/4D6BFE" width="45" alt="DeepSeek" />
+
+  <!-- Hardware -->
+  <img src="https://cdn.simpleicons.org/arduino/00979D" width="45" alt="Arduino IDE" />
+  <img src="https://cdn.simpleicons.org/raspberrypi/A22846" width="45" alt="Raspberry Pi OS" />
+
+  <!-- Collaboration -->
+  <img src="https://cdn.simpleicons.org/slack/4A154B" width="45" alt="Slack" />
+  <img src="https://cdn.simpleicons.org/trello/0052CC" width="45" alt="Trello" />
+  <img src="https://cdn.simpleicons.org/confluence/172B4D" width="45" alt="Confluence" />
+  <img src="https://cdn.simpleicons.org/discord/5865F2" width="45" alt="Discord" />
+  <img src="https://cdn.simpleicons.org/chatgpt/000000" width="45" alt="ChatGPT" />
 </p>
 
 ## 👯 Connect with me
