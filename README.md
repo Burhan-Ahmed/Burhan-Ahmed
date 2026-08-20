@@ -67,7 +67,6 @@
   <img src="https://cdn.simpleicons.org/trello/0052CC" width="45" alt="Trello" />
   <img src="https://cdn.simpleicons.org/confluence/172B4D" width="45" alt="Confluence" />
   <img src="https://cdn.simpleicons.org/discord/5865F2" width="45" alt="Discord" />
-  <img src="https://cdn.simpleicons.org/chatgpt/000000" width="45" alt="ChatGPT" />
 </p>
 
 ## 👯 Connect with me
