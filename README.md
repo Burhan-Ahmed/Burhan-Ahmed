@@ -63,7 +63,7 @@
   <img src="https://cdn.simpleicons.org/raspberrypi/A22846" width="45" alt="Raspberry Pi OS" />
 
   <!-- Collaboration -->
-  <img src="https://cdn.simpleicons.org/slack/4A154B" width="45" alt="Slack" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" alt="Slack" />
   <img src="https://cdn.simpleicons.org/trello/0052CC" width="45" alt="Trello" />
   <img src="https://cdn.simpleicons.org/confluence/172B4D" width="45" alt="Confluence" />
   <img src="https://cdn.simpleicons.org/discord/5865F2" width="45" alt="Discord" />
