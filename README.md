@@ -15,6 +15,7 @@
 - :zap: Fun fact: I read novels and play chess in my free time <be>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Burhan-Ahmed&theme=algolia&animation=stagger)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Burhan-Ahmed&theme=algolia&animation=stagger&exclude=Javascript%2C+HTML)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Burhan-Ahmed&theme=algolia&animation=stagger)
 
 <br>
