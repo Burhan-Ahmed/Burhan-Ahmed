@@ -13,7 +13,7 @@
 - :rocket: Always ready to collaborate for Dev Experiments
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 - :zap: Fun fact: I read novels and play chess in my free time <be>
-Mindset of unbreakable resilience
+- Mindset of unbreakable resilience
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Burhan-Ahmed&theme=algolia&animation=stagger)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Burhan-Ahmed&theme=algolia&animation=stagger&exclude=Javascript%2C+HTML)
