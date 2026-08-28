@@ -5,6 +5,10 @@
   I'm always eager to take on exciting projects, learn new skills and expand my network. <br>
    Feel free to reach out!
 </p>
+
+<!-- Hello team, I am a creative, tech-driven person who is passionate about Machine Learning, Computer Vision and Data. I started my career as an AI intern working on LLMs while working together at Air University as a lab engineer, where I used to instruct students during lab sessions. Alongside, I also work at OIRRC as a Junior Data Scientist, where I contributed to computer vision applications in medical imaging.
+-->
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burhan-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="burhan-ahmed" /> </p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
